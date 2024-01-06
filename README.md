@@ -1,6 +1,4 @@
 # Administrador de Pacientes con React
-<br>
-<br>
 https://adm-de-pacientes-react-javier-tecla.netlify.app/
 
 
